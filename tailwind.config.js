@@ -16,6 +16,9 @@ module.exports = {
           '100%': { transform: 'translateX(-100%)' },
         },
       },
+      backgroundImage: (theme) => ({
+        layout: "url('https://unsplash.com/photos/YS0YJLU_h2k')",
+      }),
     },
   },
   plugins: [],
