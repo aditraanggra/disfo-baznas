@@ -11,7 +11,7 @@ const Cards = ({ title, count }: Props) => {
 
   return (
     <div className='max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700'>
-      <p className='mb-3 text-lg font-normal text-gray-700 dark:text-gray-400'>
+      <p className='mb-3 text-2xl font-bold italic text-gray-700 dark:text-gray-400'>
         {title}
       </p>
       <h5 className='mb-2 text-3xl font-bold tracking-tight text-green-700  dark:text-white'>
