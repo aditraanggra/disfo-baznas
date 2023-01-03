@@ -10,7 +10,7 @@ const Header = () => {
           Informasi Digital BAZNAS Kabupaten Cianjur
         </h2>
       </div>
-      <h2 className='text-lg xl:text-xl text-green-700 font-semibold '></h2>
+      <h2 className='text-lg xl:text-xl text-green-700 font-semibold'></h2>
     </div>
   )
 }
