@@ -1,6 +1,6 @@
 import Cards from './Cards'
 import VideoPlay from './VideoPlay'
-import Info from '../../public/Contoh 16_9.jpg'
+import Info from '../../public/Template-Instastory-Baznas-Daerah_Countdown-Ramadhan-2023-11.png'
 import Image from 'next/image'
 
 const Main = () => {
@@ -14,7 +14,7 @@ const Main = () => {
         </div>
       </div>
       <div className='flex justify-center w-2/5 py-4 px-4'>
-        <Image src={Info} alt='Info' height={560} />
+        <Image src={Info} alt='Info' className='img-opt' />
       </div>
     </div>
   )

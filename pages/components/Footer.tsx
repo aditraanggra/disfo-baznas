@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className='w-full h-auto flex justify-center items-center overflow-x-hidden bg-green-700'>
+    <div className='w-full h-auto flex justify-center items-center bottom-0 bg-green-700'>
       <div className='py-4 animate-marquee whitespace-nowrap'>
         <span className='text-3xl italic text-orange-300 font-bold  mx-4'>
           Rekening Zakat :
