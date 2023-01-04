@@ -1,12 +1,12 @@
 import Cards from './Cards'
 import VideoPlay from './VideoPlay'
-import Info from '../../public/Template-Instastory-Baznas-Daerah_Countdown-Ramadhan-2023-11.png'
+import Info from '../../public/count-77.png'
 import Image from 'next/image'
 
 const Main = () => {
   return (
     <div className='flex flex-row flex-auto px-8'>
-      <div className='flex flex-col flex-auto w-3/5 h-auto py-6 px-6'>
+      <div className='flex flex-col flex-auto w-3/5 h-auto py-8 px-6'>
         <VideoPlay />
         <div className='flex flex-row justify-end items-end gap-12 mt-2'>
           <Cards

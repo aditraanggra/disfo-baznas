@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import FooterLogo from '../../public/footer-hut.png'
-import qrDonasi from '../../public/QR_Donasi_Peduli_Gempa.png'
 
 const Footer = () => {
   return (
@@ -10,14 +9,9 @@ const Footer = () => {
         alt='footer-logo'
         className='footer-img right-0 z-10 '
       />
-      <Image
-        src={qrDonasi}
-        alt='footer-logo'
-        className='footer-img left-0 z-10 '
-      />
       <div className='fixed bottom-0'>
         <div className='w-full h-auto flex justify-center items-center bg-green-700'>
-          <div className='py-6 animate-marquee whitespace-nowrap'>
+          <div className='py-4 animate-marquee whitespace-nowrap'>
             <span className='text-3xl italic text-orange-300 font-bold  mx-4'>
               Rekening Zakat :
             </span>
