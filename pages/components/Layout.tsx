@@ -4,7 +4,7 @@ type ChildProps = {
 
 const Layout = ({ children }: ChildProps) => {
   return (
-    <div className='bg-layout flex flex-col justify-between h-screen w-screen'>
+    <div className='bg-layout flex flex-col justify-between h-auto w-screen'>
       {children}
     </div>
   )

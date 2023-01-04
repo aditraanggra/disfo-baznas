@@ -1,9 +1,10 @@
 type Props = {
   title: string
+  date: string
   count: number
 }
 
-const Cards = ({ title, count }: Props) => {
+const Cards = ({ title, date, count }: Props) => {
   const RupiahFormat = new Intl.NumberFormat('id-ID', {
     style: 'currency',
     currency: 'IDR',
@@ -17,6 +18,7 @@ const Cards = ({ title, count }: Props) => {
       <h5 className='mb-2 text-3xl font-bold tracking-tight text-green-700  dark:text-white'>
         {RupiahFormat.format(count)}
       </h5>
+      <span className='text-lg text-slate-500 font-semibold'>{date}</span>
     </div>
   )
 }
