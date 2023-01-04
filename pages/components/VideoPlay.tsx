@@ -1,9 +1,9 @@
 const VideoPlay = () => {
   return (
     <iframe
-      className=' w-full h-full rounded-2xl'
+      className='w-full h-full rounded-2xl'
       id='ytplayer'
-      src='https://www.youtube.com/embed/lkVds7dcMNY?autoplay=1&controls=0&loop=1'
+      src='https://www.youtube.com/embed/lkVds7dcMNY?autoplay=1&controls=1&loop=1'
       allow='autoplay'
     />
   )
