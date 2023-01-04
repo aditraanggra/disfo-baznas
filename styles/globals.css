@@ -10,8 +10,6 @@
 
 body {
   background-image: url('../public/bg_layout.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .img-opt {

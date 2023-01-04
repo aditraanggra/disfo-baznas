@@ -15,7 +15,7 @@ const Footer = () => {
             <span className='text-3xl italic text-orange-300 font-bold  mx-4'>
               Rekening Zakat :
             </span>
-            <span className='text-3xl italic text-white font-bold  mx-4'>
+            <span className='text-3xl italic text-white font-bold mx-4'>
               BJB - 0140010006393
             </span>
             <span className='text-3xl italic text-white font-bold mx-4'>
