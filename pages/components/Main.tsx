@@ -17,7 +17,7 @@ const Main = () => {
           <Cards
             title='Total Pendistribusian'
             date='Per 04 Januari 2023'
-            count={0}
+            count={385643061}
           />
         </div>
       </div>
