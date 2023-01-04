@@ -12,12 +12,12 @@ const Main = () => {
           <Cards
             title='Total Penghimpunan'
             date='Per 04 Januari 2023'
-            count={23450000950}
+            count={81289941}
           />
           <Cards
             title='Total Pendistribusian'
             date='Per 04 Januari 2023'
-            count={22450000670}
+            count={0}
           />
         </div>
       </div>
