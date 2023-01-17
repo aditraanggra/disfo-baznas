@@ -15,14 +15,14 @@ const Main = () => {
           <Cards
             icon={IconPengumpulan}
             title='Total Penghimpunan'
-            date='Update 04 Januari 2023'
-            count={81289941}
+            date='Update 17 Januari 2023'
+            count={1102014946}
           />
           <Cards
             icon={IconPendistribusian}
             title='Total Pendistribusian'
-            date='Update 04 Januari 2023'
-            count={385643061}
+            date='Update 17 Januari 2023'
+            count={280910000}
           />
         </div>
       </div>
