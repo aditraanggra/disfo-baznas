@@ -14,7 +14,7 @@ const Cards = ({ title, date, count, icon }: Props) => {
   })
 
   return (
-    <div className='flex flex-col justify-center items-center max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700'>
+    <div className='flex flex-col justify-center items-center w-2/4 max-w-md p-6 bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700'>
       <span className=' rounded-full flex justify-center items-center w-1/3 h-auto py-4 px-4 bg-green-100 mb-4'>
         <Image src={icon} alt='icon' />
       </span>

@@ -11,7 +11,7 @@ const Main = () => {
     <div className='flex flex-row flex-auto px-8'>
       <div className='flex flex-col flex-auto w-3/5 h-auto px-4'>
         <VideoPlay />
-        <div className='flex flex-row justify-end items-end gap-6 mt-2'>
+        <div className='flex flex-row justify-center items-end gap-6 mt-2'>
           <Cards
             icon={IconPengumpulan}
             title='Total Penghimpunan'
