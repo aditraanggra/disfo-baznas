@@ -3,6 +3,7 @@ import Cards from './Cards'
 import VideoPlay from './VideoPlay'
 import Info from '../../public/Count-50.png'
 
+//import component
 import IconPengumpulan from '../../public/pengumpulan.svg'
 import IconPendistribusian from '../../public/pendistribusian.svg'
 
@@ -15,13 +16,13 @@ const Main = () => {
           <Cards
             icon={IconPengumpulan}
             title='Total Penghimpunan'
-            date='Update 31 Januari 2023'
+            date='Update 02 Februari 2023'
             count={1238254312}
           />
           <Cards
             icon={IconPendistribusian}
             title='Total Pendistribusian'
-            date='Update 31 Januari 2023'
+            date='Update 02 Februari 2023'
             count={949642819}
           />
         </div>
