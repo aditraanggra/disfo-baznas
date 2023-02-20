@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Cards from './Cards'
 import VideoPlay from './VideoPlay'
-import Info from '../../public/Count-50.png'
+import Info from '../../public/Count-31.png'
 
 //import component
 import IconPengumpulan from '../../public/pengumpulan.svg'
