@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Cards from './Cards'
 import VideoPlay from './VideoPlay'
-import Info from '../../public/Count-31.png'
+import Info from '../../public/pimpinan.jpg'
 
 //import component
 import IconPengumpulan from '../../public/pengumpulan.svg'
@@ -16,14 +16,14 @@ const Main = () => {
           <Cards
             icon={IconPengumpulan}
             title='Total Penghimpunan'
-            date='Update 08 Februari 2023'
-            count={1790208727}
+            date='Update 08 Mei 2023'
+            count={5777562813}
           />
           <Cards
             icon={IconPendistribusian}
             title='Total Pendistribusian'
-            date='Update 08 Februari 2023'
-            count={1001392820}
+            date='Update 08 Mei 2023'
+            count={3001392820}
           />
         </div>
       </div>
