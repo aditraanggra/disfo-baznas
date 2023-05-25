@@ -17,13 +17,13 @@ const Main = () => {
             icon={IconPengumpulan}
             title='Total Penghimpunan'
             date='Update 15 Mei 2023'
-            count={10838369424}
+            count={10958762240}
           />
           <Cards
             icon={IconPendistribusian}
             title='Total Pendistribusian'
             date='Update 15 Mei 2023'
-            count={4043252321}
+            count={4080702066}
           />
         </div>
       </div>
