@@ -12,11 +12,11 @@ body {
   background-image: url('../public/bg_layout.jpg');
 }
 
-.img-opt {
+/* .img-opt {
   width: 82%;
   height: auto;
 }
-
+ */
 .footer-img {
   position: absolute;
   width: 14%;

@@ -7,7 +7,7 @@ const Footer = () => {
       <Image
         src={FooterLogo}
         alt='footer-logo'
-        className='footer-img right-0 z-10 '
+        className='footer-img right-0 z-10 bottom-0 '
       />
       <div className='fixed bottom-0'>
         <div className='w-full h-auto flex justify-center items-center bg-green-700'>
